@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Kalopsia</string>
+    <string name="april_2_sat">April 2,Sat</string>
+    <string name="bekasi_indonesia">Bekasi,Indonesia</string>
+    <string name="img">Img</string>
+    <string name="snap_deal">snap deal</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="temp">Temp</string>
+    <string name="celsius">0°</string>
+    <string name="_260">260</string>
+    <string name="wind">Wind</string>
+    <string name="_0">0%</string>
+    <string name="humidity">Humidity</string>
+    <string name="future_weather_7_days">Future Weather 7 Days</string>
+    <string name="sunday">Sunday</string>
+    <string name="_3_april">3 April</string>
+    <string name="_21">21°</string>
+    <string name="strip">-</string>
+    <string name="_17">17°</string>
+    <string name="image_splashscreen">Image_SplashScreen</string>
+    <string name="kalopsia">Kalopsia</string>
+</resources>
